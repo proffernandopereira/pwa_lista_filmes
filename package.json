@@ -1,0 +1,12 @@
+{
+  "name": "pwa-movie-app",
+  "version": "1.0.0",
+  "description": "PWA Movie App using TMDb API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

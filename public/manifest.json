@@ -1,0 +1,21 @@
+{
+    "name": "PWA Movie App",
+    "short_name": "MovieApp",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "description": "A PWA that lists movies using the TMDb API.",
+    "icons": [
+        {
+            "src": "/image/icons8100.png",
+            "sizes": "100x100",
+            "type": "image/png"
+        },
+        {
+            "src": "/image/icons8500.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        }
+    ]
+}

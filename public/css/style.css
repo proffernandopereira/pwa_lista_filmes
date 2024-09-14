@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.movie-item {
+    margin-bottom: 20px;
+}
+
+.movie-item img {
+    max-width: 100%;
+    border-radius: 8px;
+}
